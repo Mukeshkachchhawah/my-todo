@@ -9,7 +9,7 @@ class Home_Page extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color(0xffffc0c7),
+       // backgroundColor: Color(0xffffc0c7),
         elevation: 0,
       //  leading: ,
         title: Text(
